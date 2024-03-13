@@ -1,4 +1,4 @@
-<img align="center" src="https://giphy.com/embed/6BGzmQ1l2cO0Nfg0Wi" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen/>
+<img align="center" src="https://giphy.com/embed/6BGzmQ1l2cO0Nfg0Wi" width="480" height="270"/>
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3>
 
