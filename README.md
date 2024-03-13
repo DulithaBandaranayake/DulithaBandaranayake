@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=dulithabandaranayake&label=Profile%20views&color=0e75b6&style=flat" alt="dulithabandaranayake" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulithabandaranayake&label=Profile%20views&color=0e75b6&style=flat" alt="dulithabandaranayake" /> </p>
 
 ---
 
@@ -17,8 +17,8 @@
 
 - ⚡ Fun fact **I'am not only write code also writing poetry**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me</h3>
+<p align="center">
 <a href="https://linkedin.com/in/dulitha-bandaranayake-7964b0167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dulitha-bandaranayake-7964b0167" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/dulitha-bandaranayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="dulitha-bandaranayake" height="30" width="40" /></a>
 <a href="https://fb.com/dulitha.bandaranayake.37" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="dulitha.bandaranayake.37" height="30" width="40" /></a>
