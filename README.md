@@ -1,5 +1,5 @@
 
-<div align="center" >![giphy](https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/0b10d9e5-fe16-46de-9b85-c83bb3fa384b)</div><br>
+<div align="center" ><img src="https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/0b10d9e5-fe16-46de-9b85-c83bb3fa384b"></div><br>
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3>
 
