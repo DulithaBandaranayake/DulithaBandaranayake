@@ -1,4 +1,4 @@
-<div align="center" width="50px" height="50px" ><img src="https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/419beea8-7f7e-495f-bcd2-dac86f6e870a"></div><br>
+<div align="center"><img width="50px" height="50px" src="https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/419beea8-7f7e-495f-bcd2-dac86f6e870a"></div><br>
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3>
 
