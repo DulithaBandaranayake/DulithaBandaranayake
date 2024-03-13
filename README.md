@@ -1,5 +1,4 @@
-
-<div align="center" ><img src="https://tenor.com/okkz7QfAtaP.gif"></div><br>
+<div align="center" ><img src="[https://tenor.com/okkz7QfAtaP.gif](https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/419beea8-7f7e-495f-bcd2-dac86f6e870a)"></div><br>
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3>
 
