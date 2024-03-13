@@ -36,7 +36,7 @@
 ---
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dulithabandaranayake&show_icons=true&locale=en&layout=compact" alt="dulithabandaranayake" /></p>
 
-<h2 align="right">Support</h2>
+<h2 align="left">Support</h2>
 <p><a href="https://www.buymeacoffee.com/dubudev"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="dubudev" /></a></p>
 
 
