@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dulithabandaranayake&label=Profile%20views&color=0e75b6&style=flat" alt="dulithabandaranayake" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dulithabandaranayake&label=Profile%20views&color=0e75b6&style=flat" alt="dulithabandaranayake" /> </p>
 
 ---
 
