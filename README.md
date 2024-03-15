@@ -1,6 +1,6 @@
 <div align="center"><img width="200px" height="200px" src="https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/419beea8-7f7e-495f-bcd2-dac86f6e870a"></div><br>
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
-<h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3><br>
+<h3 align="center">Web Developer | Full Stack | Sri Lanka</h3><br>
 
 | ![My github stats](https://github-readme-stats.vercel.app/api?username=dulithabandaranayake&show_icons=true&theme=tokyonight) | ![ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulithabandaranayake&theme=tokyonight) |
 | --- | --- |
