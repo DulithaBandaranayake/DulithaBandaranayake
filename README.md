@@ -35,7 +35,7 @@
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=dulithabandaranayake&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulithabandaranayake&theme=tokyonight) 
 
-| ![My github stats](https://github-readme-stats.vercel.app/api?username=dulithabandaranayake&show_icons=true&theme=tokyonight) | ![ GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dulithabandaranayake&theme=tokyonight) |
+| ![Github Stars](https://github-readme-stats.vercel.app/api?username=dulithabandaranayake&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulithabandaranayake&theme=tokyonight)  |
 | --- | --- |
 <br>
 
