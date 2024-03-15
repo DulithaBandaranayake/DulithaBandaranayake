@@ -3,6 +3,7 @@
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dulithabandaranayake&label=Profile%20views&color=0e75b6&style=flat" alt="dulithabandaranayake" /> </p>
+[![Github](https://img.shields.io/github/followers/Aditya664?label=Follow&style=social)](https://github.com/dulithabandaranayake)
 
 ---
 
