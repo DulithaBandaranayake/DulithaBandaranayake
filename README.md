@@ -33,9 +33,6 @@
 
 <br>
 
-| ![Github Stars](https://github-readme-stats.vercel.app/api?username=dulithabandaranayake&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulithabandaranayake&theme=tokyonight)  |
-| --- | --- |  
-
 <!--- stats & Trophy (start) -->
 <p align="center">
   <!--- stats (start) -->
@@ -48,7 +45,7 @@
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulithabandaranayake&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=dulithabandaranayake&theme=tokyonight&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
