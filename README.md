@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Dulitha Bandaranayake</h1>
 <h3 align="center">Web Developer | Full Stack Enthusiast | Sri Lanka</h3><br>
 
-<img width="35%" align="right" alt="Github" src="https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/58de9712-7882-4c1e-98f1-77aeea2a6ec2" />
+<img width="40%" height="50%" align="right" alt="Github" src="https://github.com/DulithaBandaranayake/DulithaBandaranayake/assets/121762938/58de9712-7882-4c1e-98f1-77aeea2a6ec2" />
 
 - 🌱 I’m currently learning **Bachelor of Information Technology**
 
