@@ -35,8 +35,7 @@
 
 ![Github Stars](https://github-readme-stats.vercel.app/api?username=dulithabandaranayake&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dulithabandaranayake&theme=tokyonight) 
 
-
-| a | b |
+| ![a] | ![b] |
 
 <br>
 
