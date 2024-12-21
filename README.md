@@ -13,7 +13,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/dulitha.bandaranayake.37)
 [![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/dulitha_bandaranayake)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/DulithaBandaranayake)
-[![Dev.to](https://img.shields.io/badge/Dev.to-Profile-black)](https://dev.to/dubudev)
+[![Dev.to](https://img.shields.io/badge/.com-Profile-purple)]([https://dulithabandaranayake.github.io/])
 
 ## Languages and Tools
 
