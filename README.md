@@ -1,11 +1,12 @@
-# Hi there, I'm Dulitha Bandaranayake! 👋
+# 🌟 About Me  
 
-**Software Developer | Full Stack Developer | Sri Lanka**
+Hi, I'm **Dulitha Bandaranayake**! I'm a passionate **Full Stack Developer** with a knack for solving real-world problems through technology. My journey in software development has equipped me with diverse skills, from back-end logic to front-end user experiences.
 
-- 🎓 Pursuing a Bachelor of Information Technology.
-- 💬 Ask me about PHP, Python.
-- 📫 Reach me at: rdulitha0463@gmail.com.
-- ✨ Fun fact: I not only write code but also poetry.
+- 🚀 **Mission:** To create impactful, scalable, and user-friendly software solutions.
+- 🌱 **Currently Exploring:** Advanced web technologies and cloud computing.
+- 🧩 **Passionate About:** Clean code, efficient algorithms, and meaningful collaborations.
+
+💡 _"Technology is the bridge between imagination and reality."_
 
 ## Connect with Me
 
