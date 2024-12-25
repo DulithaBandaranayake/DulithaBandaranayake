@@ -1,49 +1,55 @@
-# 🌟 About Me  
+# ✨ About Me
 
 Hi, I'm **Dulitha Bandaranayake**! I'm a passionate **Full Stack Developer** with a knack for solving real-world problems through technology. My journey in software development has equipped me with diverse skills, from back-end logic to front-end user experiences.
 
-- 🚀 **Mission:** To create impactful, scalable, and user-friendly software solutions.
-- 🌱 **Currently Exploring:** Advanced web technologies and cloud computing.
-- 🧩 **Passionate About:** Clean code, efficient algorithms, and meaningful collaborations.
+- 🚀 **Mission:** To create impactful, scalable, and user-friendly software solutions.  
+- 🌱 **Currently Exploring:** Advanced web technologies and cloud computing.  
+- 🪩 **Passionate About:** Clean code, efficient algorithms, and meaningful collaborations.
 
 💡 _"Technology is the bridge between imagination and reality."_
 
-## Connect with Me
+---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dulitha-bandaranayake-7964b0167)
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/dulitha.bandaranayake.37)
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/dulitha_bandaranayake)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/DulithaBandaranayake)
-[![hello](https://img.shields.io/badge/.com-Profile-lightblue)](https://dulithabandaranayake.github.io/)
+## 🔎 Connect with Me
 
-## Languages and Tools
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dulitha-bandaranayake-7964b0167) 
+[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/dulitha.bandaranayake.37) 
+[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/dulitha_bandaranayake) 
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/DulithaBandaranayake) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightblue)](https://dulithabandaranayake.github.io/)
 
-Here are the updated badges with Next.js, PostgreSQL, Kotlin, and React added:
+---
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)  
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)  
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)  
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)    
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)  
+## 🛠️ Languages and Tools
+
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
 ![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
 
-## GitHub Stats
+---
 
-![Dulitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulithaBandaranayake&show_icons=true&theme=radical)
+## 📊 GitHub Stats
+
+![Dulitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulithaBandaranayake&show_icons=true&theme=radical)  
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DulithaBandaranayake&theme=radical)
 
-## Support
+---
+
+## 💜 Support
 
 If you like my work, consider buying me a coffee:
 
