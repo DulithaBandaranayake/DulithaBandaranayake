@@ -1,11 +1,22 @@
-<svg width="800" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg width="500" height="100" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <filter id="glass" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur in="SourceGraphic" stdDeviation="8" result="blur"/>
+    <filter id="glassSupport" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="4" result="blur"/>
       <feComposite in="SourceGraphic" in2="blur" operator="over"/>
     </filter>
+    <filter id="shadowSupport">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="rgba(0,0,0,0.12)" />
+    </filter>
+    <linearGradient id="strokeSupport" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="rgba(255,255,255,0.5)">
+        <animate attributeName="stop-color" values="rgba(255,255,255,0.5);rgba(255,255,255,0.2);rgba(255,255,255,0.5)" dur="6s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="rgba(255,255,255,0.2)">
+        <animate attributeName="stop-color" values="rgba(255,255,255,0.2);rgba(255,255,255,0.5);rgba(255,255,255,0.2)" dur="6s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
   </defs>
-  <rect x="5" y="5" rx="20" ry="20" width="790" height="110"
-        fill="rgba(255,255,255,0.2)" stroke="rgba(255,255,255,0.4)" stroke-width="2"
-        filter="url(#glass)"/>
+  <rect x="6" y="6" rx="18" ry="18" width="488" height="88"
+        fill="rgba(255,255,255,0.25)" stroke="url(#strokeSupport)" stroke-width="2"
+        filter="url(#glassSupport) url(#shadowSupport)"/>
 </svg>
