@@ -1,56 +1,81 @@
-# ✨ About Me
+<!-- Background Gradient -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DulithaBandaranayake/DulithaBandaranayake/main/assets/glass-bg.svg" width="100%" />
+</p>
 
-Hi, I'm **Dulitha Bandaranayake**! I'm a passionate **Full Stack Developer** with a knack for solving real-world problems through technology. My journey in software development has equipped me with diverse skills, from back-end logic to front-end user experiences.
-
-- 🚀 **Mission:** To create impactful, scalable, and user-friendly software solutions.  
-- 🌱 **Currently Exploring:** Advanced web technologies and cloud computing.  
-- 🪩 **Passionate About:** Clean code, efficient algorithms, and meaningful collaborations.
-
-💡 _"Technology is the bridge between imagination and reality."_
-
----
-
-## 🔎 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/dulitha-bandaranayake-7964b0167) 
-[![Facebook](https://img.shields.io/badge/Facebook-Profile-blue)](https://www.facebook.com/dulitha.bandaranayake.37) 
-[![Instagram](https://img.shields.io/badge/Instagram-Profile-purple)](https://www.instagram.com/dulitha_bandaranayake) 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/DulithaBandaranayake) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-lightblue)](https://dulithabandaranayake.github.io/)
+<!-- Header Glass Card -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=ffffff&text=Dulitha%20Bandaranayake&height=150&fontSize=50&desc=🚀%20Full%20Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Explorer&descAlignY=75&descAlign=50&animation=fadeIn" alt="header"/>
+</p>
 
 ---
 
-## 🛠️ Languages and Tools
+## ✨ About Me  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DulithaBandaranayake/DulithaBandaranayake/main/assets/glass-card.svg" width="80%" />
+</div>  
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![.NET](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![Kotlin](https://img.shields.io/badge/-Kotlin-0095D5?logo=kotlin&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
-![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)
+I'm a passionate **Full Stack Developer** on a mission to build impactful, scalable, and user-friendly solutions.  
+I love turning complex problems into **clean, intuitive experiences**.
+
+- 🌱 **Currently Exploring:** Advanced Web Technologies & Cloud Computing  
+- 💡 **Mission:** Build software that solves real-world challenges  
+- 🎯 **Focus Areas:** Clean Code, Efficient Algorithms, Meaningful Collaborations  
 
 ---
 
-## 📊 GitHub Stats
+## 🔗 Connect with Me  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DulithaBandaranayake/DulithaBandaranayake/main/assets/glass-social.svg" width="90%" />
+</div>  
 
-![Dulitha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DulithaBandaranayake&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DulithaBandaranayake&theme=radical)
+<p align="center">
+  <a href="https://www.linkedin.com/in/dulitha-bandaranayake-7964b0167"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.facebook.com/dulitha.bandaranayake.37"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <a href="https://www.instagram.com/dulitha_bandaranayake"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://github.com/DulithaBandaranayake"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://dulithabandaranayake.github.io/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+</p>
 
 ---
 
-## 💜 Support
+## 🛠️ Tech Toolbox  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DulithaBandaranayake/DulithaBandaranayake/main/assets/glass-tech.svg" width="85%" />
+</div>  
 
-If you like my work, consider buying me a coffee:
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=php,python,django,dotnet,mysql,postgresql,js,html,css,react,nextjs,kotlin,firebase,linux,git,figma,ps&theme=light" />
+</p>
 
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support%20Me-orange)](https://www.buymeacoffee.com/yourusername)
+---
+
+## 📊 GitHub Analytics  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DulithaBandaranayake/DulithaBandaranayake/main/assets/glass-stats.svg" width="90%" />
+</div>  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DulithaBandaranayake&show_icons=true&theme=transparent&hide_border=true&title_color=4d9fff&icon_color=ff4d6d" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=DulithaBandaranayake&theme=transparent&hide_border=true&ring=ff4d6d&fire=ff4d6d&currStreakLabel=4d9fff" height="165"/>
+</p>
+
+---
+
+## ☕ Support My Work  
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DulithaBandaranayake/DulithaBandaranayake/main/assets/glass-support.svg" width="80%" />
+</div>  
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/yourusername">
+    <img src="https://img.shields.io/badge/☕-Buy%20Me%20a%20Coffee-orange?style=for-the-badge"/>
+  </a>
+</p>
+
+---
+
+<!-- Footer Wave -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4d9fff,100:ff4d6d&height=120&section=footer"/>
+</p>
